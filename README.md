@@ -88,7 +88,7 @@ Docker · Git
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mael-Roulette/AVBox">
+      <a href="https://github.com/Mael-Roulette/AVBox-demo">
         <b>📦 AVBox</b>
       </a>
       <br />
