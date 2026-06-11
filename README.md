@@ -15,9 +15,6 @@ const mael = {
 <a href="https://linkedin.com/in/maelroulette" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Mael-Roulette" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -38,28 +35,31 @@ En ce moment je bosse sur deux projets perso : une appli sport et un outil de ge
     <td valign="top" width="33%">
 
 **Frontend**
-```
+<br>
+``
 JS · TS · React · Next.js
 Tailwind · Sass · WordPress
-```
+``
 
 </td>
     <td valign="top" width="33%">
 
 **Backend**
-```
+<br>
+``
 Node.js · NestJS · Express
 Symfony
-```
+``
 
 </td>
     <td valign="top" width="33%">
 
 **Data & Infra**
-```
+<br>
+``
 PostgreSQL · MySQL · MongoDB
 Docker · Git
-```
+``
 
 </td>
   </tr>
